@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "Khammam"
+    },
+    {
+        "id": "2",
+        "name": "Warangal"
+    },
+    {
+        "id": "3",
+        "name": "Karimnagar"
+    },
+    {
+        "id": "4",
+        "name": "Hyderabad"
+    },
+    {
+        "id": "5",
+        "name": "Suryapet"
+    },
+    {
+        "id": "6",
+        "name": "Mahbubnagar"
+    },
+    {
+        "id": "7",
+        "name": "Nalgonda"
+    },
+    {
+        "id": "8",
+        "name": "Nizamabad"
+    },
+    {
+        "id": "9",
+        "name": "Adilabad"
+    },
+    {
+        "id": "10",
+        "name": "Miryalaguda"
+    }
+]

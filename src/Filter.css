@@ -1,0 +1,22 @@
+body{
+    background-image: url('https://static-cse.canva.com/blob/572626/1.magebyRodionKutsaevviaUnsplash.jpg');
+}
+.data{
+    border: 5px solid black;
+    margin: 10px;
+    padding: 10px;
+   font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search_box{
+    border-radius: 20px;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid black;
+}
+.searchfilter_heading{
+    font-family: serif;
+    color: #f5425d;
+}
